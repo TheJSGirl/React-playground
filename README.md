@@ -5,5 +5,5 @@ This repo contains the list of small/medium applications I ma making to learn th
 ## List of apps
 
 - [Pokemon Game](https://github.com/TheJSGirl/PokemonGame)
-- [Frined List](https://github.com/TheJSGirl/friendList-react)
+- [Friend List](https://github.com/TheJSGirl/friendList-react)
 - [Slot Machine](https://github.com/TheJSGirl/slotMachine)
