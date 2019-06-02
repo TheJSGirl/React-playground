@@ -1,0 +1,9 @@
+[submodule "friendList-react"]
+	path = friendList-react
+	url = https://github.com/TheJSGirl/friendList-react.git
+[submodule "slotMachine"]
+	path = slotMachine
+	url = https://github.com/TheJSGirl/slotMachine.git
+[submodule "pokemon-game"]
+	path = pokemon-game
+	url = https://github.com/TheJSGirl/pokemon-game.git
